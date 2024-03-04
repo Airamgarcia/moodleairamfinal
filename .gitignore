@@ -1,0 +1,5 @@
+logs/apache2/moodledata/sessions/*
+data/mysql/#innodb_temp
+data/mysql/#innodb_redo/#ib_redo32
+data/mysql/#innodb_redo/*
+data/mysql/binlog*
