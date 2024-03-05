@@ -7,3 +7,5 @@ git clone https://github.com/Airamgarcia/moodleairamfinal.git
 sudo docker-compose up -d
 
 admin/Admin0101*
+
+<img src="logo.png" alt="logo">
